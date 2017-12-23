@@ -18,3 +18,5 @@ add a cachelu;
 add a cachelu;
 add a cachelu;
 add a cachelu;
+
+add a tree;
